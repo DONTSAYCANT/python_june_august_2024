@@ -1,0 +1,83 @@
+Basic python (30 days) 
+
+Introduction to python
+Python / programming basic (variable/datatype/Data strucutre)
+Writing basic pgms
+String Indexing and slicing
+String Methods
+Data structures in python (list[] /tuple () /set {} / Dictionary{:})
+Data structure method
+Conditional stmt
+Loops (while for )
+Functions in python (Inbuilt,User def)
+
+Miniproject and project1 
+Test1 (50 marks)  Test1 (50 marks (50 mins), pass mark: 35, 25 marks mcq+ 25 marks pgms (5 pgms)) 
+(eLigibility: Hackerrank  200-220 points, 
+              mini project completion, 
+              project1 completion, 
+              75 pgms from https://www.geeksforgeeks.org/python-programming-examples/)
+Test1 Date: July 24
+
+https://www.geeksforgeeks.org/python-programming-examples/  (75 pgms before Test1 date)
+
+Medium level (15 - 20 days)
+
+Modules in python 
+Exception Handling 
+Anonymous functions 
+Comprehensions
+File handling 
+OS and sys module 
+itertools module 
+Collections module 
+Datetime module 
+Regular expression 
+
+Project2:
+Test2   (eligibility: 330 point hackerrank python, GeeksforGeeks: 100 pgms), 300 points in hackerrank regex, miniproject/project1/project2 should be completed )
+
+Seminars: Json/Yaml/XML module, Logging module,  
+
+Advanced level (15-20 days)
+
+OOPS:
+======
+Objects and classes
+class/object methods and attributes
+Constructor and Destructor
+static methods and class methods
+Inheritance
+Abstract class/method
+Method Overriding
+Encapsulation
+polymorphism 
+
+Application Oriented
+======================
+
+Multi threading
+Database connectivity
+Decorators / generator / iterators  / dynamic args /closures pending concepts
+Networking basics
+Django basics
+
+Interview Preparation
+
+Project3 / Project4 / Project 5
+Test3
+Resume review / linkedin review
+
+
+Seminar topics:
+
+Round1:
+
+1. Logging module ===> Logging  ===> Sudir 
+    https://realpython.com/python-logging/
+2. https://github.com/DONTSAYCANT/Python-May-2022/blob/main/Practice%20Pgms 7 + 3 pattern programs  ==> Mouli
+3. Json/Yaml/XML any one module ===> Dhanabalan
+4. 10 pattern programs ===> Datta 
+
+Round2:
+1. date, time, datetime  modules
