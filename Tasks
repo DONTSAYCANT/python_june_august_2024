@@ -47,3 +47,33 @@ print(a[12:5])
 https://www.w3schools.com/python/python_strings_exercises.asp
 
 
+Data type conversion (int to float,bool,string)
+
+For below programs collect input from user, pi is constant value 3.14 (print output in formatted way)
+
+write a program to calculate perimeter of the circle with radius (collect from user) ===> 2*pi*r
+Collect radius and height from user,
+calculate Area of cone (area of cone = 0.33 * pi * r * r * h) (int)
+
+
+Type1: var = "python_interpreter_made_easy"
+
+print(var[1:3])
+print(var[0:5])
+print(var[-5:-2])
+print(var[:3])
+print(var[3:])
+print(var[:])
+print(val[3:10])
+print(val[2:5])
+print(val[0:10])
+print(val[5:-5])
+print(val[2:8])
+print(val[:8])
+print(val[5:])
+print(val[8:12])
+print(val[12:5])
+
+
+
+
