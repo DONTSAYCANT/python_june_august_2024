@@ -22,3 +22,26 @@ Introduction notebook ==> complete it and understand
 2. why input function only accepts string
 3. inbuilt function ===> https://www.w3schools.com/python/python_ref_functions.asp (Min 10 pgms)
 4. Complete introduction notebook pending pgms
+
+
+================= June 16 =======================
+
+"I_love_india"
+"python_compiler_interpreter"
+"w3schools_program_assignment"
+"idle_python_four"
+
+print(a[3:8])
+print(a[5:-5])
+print(a[-12:-7])
+print(a[-10:12])
+print(a[:6])
+print(a[:-7])
+print(a[5:])
+print(a[-10:])
+print(a[:])
+print(a[4:100])
+print(a[12:5])
+
+
+
