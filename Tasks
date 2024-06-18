@@ -76,4 +76,36 @@ print(val[12:5])
 
 
 
+=========================== June 18 ============================
+
+"go_kubernetes_laptop"
+"stop_share_screen"
+
+Type2
+print(val[3:10:1])
+print(val[3:10:2])
+print(val[3:10:3])
+print(val[5:-5:1])
+print(val[5:-5:2])
+print(val[5:-5:5])
+print(val[:8:4])
+print(val[5::3])
+print(val[::2])
+print(val[12:5:3])
+
+
+Type 1
+print(a[3:8])
+print(a[5:-5])
+print(a[-12:-7])
+print(a[-10:15])
+print(a[:6])
+print(a[:-7])
+print(a[5:])
+print(a[-10:])
+print(a[:])
+print(a[4:100])
+print(a[12:5])
+
+
 
