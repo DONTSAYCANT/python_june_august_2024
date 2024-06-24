@@ -212,5 +212,8 @@ print(a[10::-5])
 print(a[:6:1])
 print(a[:7:-2])
 
+================== June 24 =================
 
+String methods ===>  20 pgsm
+Understands List, tuple, set and dictionary from w3school (Pre study)
 
